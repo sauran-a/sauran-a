@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Sauran
 - 👀 I’m a Python backend developer looking for new career opportunities 
+- 👨🏻‍💻 Stack: Python 3.9+, Flask, Django, SQL, MySQL, PostgreSQL, Peewee (ORM), REST API
 
 <!---
 sauran-a/sauran-a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
