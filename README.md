@@ -12,5 +12,8 @@
 
 - Python 3.9
 - Frameworks: Flask, Django
+- Unit testing: Pytest, Unittest
 - DB: SQL, MySQL, PostgreSQL, Peewee (ORM)
-- Other: REST API
+- Frontend: HTML&CSS
+- OS: Mac, Windows, Linux (Ubuntu)
+- Other: REST API, bash
