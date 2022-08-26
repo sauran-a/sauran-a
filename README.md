@@ -20,5 +20,5 @@
 
 <h2> Contacts </h2>
 
-- Telegram: @sauran_a
+- Telegram: <a href='https://t.me/sauran_a'>@sauran_a</a>
 - Email: sakhmetz@gmail.com
