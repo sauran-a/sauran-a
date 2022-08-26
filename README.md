@@ -17,3 +17,8 @@
 - Frontend: HTML&CSS
 - OS: Mac, Windows, Linux (Ubuntu)
 - Other: REST API, bash
+
+<h2> Contacts </h2>
+
+- Telegram: @sauran_a
+- Email: sakhmetz@gmail.com
