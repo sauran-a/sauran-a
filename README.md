@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sauran
-- 👀 I’m Python Backend developer looking for new career opportunities 
+- 👀 I’m a Python backend developer looking for new career opportunities 
 
 <!---
 sauran-a/sauran-a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
