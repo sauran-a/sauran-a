@@ -6,7 +6,7 @@
   - Race Report - Python package that creates and prints a report of Monaco 2018 Racing in a user's terminal.
   - Race Report (Flask) - web-view of previous app to display results on a website
   - Instagram Clone (Django)
-  - ...
+  - Loyalty system for small coffee shops
 
 <h2> Stack </h2> 
 
