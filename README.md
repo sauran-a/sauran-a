@@ -3,7 +3,7 @@
 
 <h2>Projects</h2>
 
-  - Race Report - Python package that creates and prints a report of Monaco 2018 Racing in a user's terminal.
+  - School - REST API service to provide data about school entities
   - Race Report (Flask) - web-view of the previous app to display results in a browser
   - Instagram Clone (Django)
   - Loyalty system for small coffee shops
