@@ -1,22 +1,14 @@
 <h2> Hi, there! 👋</h2>
-- 👀 I’m Sauran, a Python backend developer looking for new career opportunities 
-
-<h2>Projects</h2>
-
-  - School - REST API service to provide data about school entities
-  - Race Report (Flask) - web-view of the previous app to display results in a browser
-  - Instagram Clone (Django)
-  - Loyalty system for small coffee shops
+- 👀 I’m Sauran, a Data Analyst looking for new career opportunities 
 
 <h2> Stack </h2> 
 
 - Python 3.9
-- Frameworks: Flask, Django
+- BI: Power BI, Looker Studio (Google Data Studio)
+- DB: SQL, MySQL, PostgreSQL, T-SQL, Google BigQuery, Hive
+- Frameworks: Flask, Django, FastAPI
 - Unit testing: Pytest, Unittest
-- DB: SQL, MySQL, PostgreSQL, Peewee (ORM)
-- Frontend: HTML&CSS
 - OS: Mac, Windows, Linux (Ubuntu)
-- Other: REST API, bash
 
 <h2> Contacts </h2>
 
